@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Oldenburg:wght@400;700&family=Protest+Strike&display=swap');
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: 'Oldenburg', sans-serif;
+}
+
+h1 {
+    color: #007bff;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+* {
+    font-family: 'Oldenburg';
+}
+
+#dropZone {
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#dropZone:hover {
+    background-color: #e9f5ff;
+}
+
+#imagePreview {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#result {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #28a745;
+}
