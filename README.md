@@ -42,14 +42,15 @@ Una vez iniciado, abre tu navegador en `http://127.0.0.1:5000` para interactuar 
 Agrega una imagen en la aplicación y presiona **Detectar Tumor** para ver el resultado de la predicción.
 
 <p align="center">
-  <img src="https://your-image-url-here.png" alt="Ejemplo de Detección" width="600"/>
+  <img src="https://your-image-url-here.png" alt="Ejemplo de Detección - Imagen" width="600"/>
 </p>
 
 ## 📹 Video de Funcionamiento
 Aquí tienes un video de demostración para ver el modelo en acción:
 
 <p align="center">
-  <a href="https://your-video-url-here.mp4"><img src="https://your-thumbnail-url-here.png" alt="Video de Demostración" width="600"/></a>
+  <a href="https://github.com/user-attachments/assets/93692540-fc9a-4010-b540-9a4f9c04a9ad
+"><img src="https://your-thumbnail-url-here.png" alt="Video de Demostración" width="600"/></a>
 </p>
 
 ## 📁 Estructura del Proyecto
