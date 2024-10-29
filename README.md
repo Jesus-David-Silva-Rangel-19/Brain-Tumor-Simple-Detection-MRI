@@ -51,10 +51,7 @@ Aquí tienes un video de demostración para ver el modelo en acción:
 
 [Ver video de demostración]()
 
-
-<p align="center">
-  [![Ver video de demostración](https://ruta-de-tu-miniatura.png)](https://github.com/Jesus-David-Silva-Rangel-19/Brain-Tumor-Simple-Detection-MRI/issues/3#issue-2619891733)
-</p>
+[Ver video de demostración del modelo](https://ruta-de-tu-miniatura.png)](https://github.com/Jesus-David-Silva-Rangel-19/Brain-Tumor-Simple-Detection-MRI/issues/3#issue-2619891733)
 
 
 ## 📁 Estructura del Proyecto
