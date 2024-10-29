@@ -49,9 +49,11 @@ Agrega una imagen en la aplicación y presiona **Detectar Tumor** para ver el re
 Aquí tienes un video de demostración para ver el modelo en acción:
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/93692540-fc9a-4010-b540-9a4f9c04a9ad
-"><img src="https://your-thumbnail-url-here.png" alt="Video de Demostración" width="600"/></a>
+  [![Ver video de demostración](https://github.com/Jesus-David-Silva-Rangel-19/Brain-Tumor-Simple-Detection-MRI/issues/3#issue-2619891733)
 </p>
+
+
+
 
 ## 📁 Estructura del Proyecto
 ```
