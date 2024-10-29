@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7296dc59-6d01-4ac6-a115-ccb107a9c826" 
        alt="img-brains" 
-       width="300"
-       height="200"
+       width="600"
+       height="600"
        style="border-radius: 15px;"/>
 </p>
 
