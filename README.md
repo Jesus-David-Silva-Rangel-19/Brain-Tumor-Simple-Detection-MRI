@@ -1,7 +1,10 @@
 # 🧠 Tumor Detection in MRI with Flask Deployment 🎉
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4868d1c0-c9b1-4279-b072-d0862ce207fc" alt="img-tumor-yes-validation-2" width="200"  style="border-radius: 15px;"//>
+  <img src="https://github.com/user-attachments/assets/4868d1c0-c9b1-4279-b072-d0862ce207fc" 
+       alt="img-tumor-yes-validation-2" 
+       width="150" 
+       style="border-radius: 15px;"/>
 </p>
 
 🚀 **Bienvenido a este proyecto de detección de tumores cerebrales en resonancias magnéticas!** Este repositorio contiene el código y la documentación para desplegar un modelo de machine learning que clasifica tumores en imágenes de resonancia magnética (MRI) usando Flask.
