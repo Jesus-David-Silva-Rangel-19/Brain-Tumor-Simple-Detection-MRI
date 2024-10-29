@@ -1,8 +1,8 @@
 # 🧠 Tumor Detection in MRI with Flask Deployment 🎉
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4868d1c0-c9b1-4279-b072-d0862ce207fc" 
-       alt="img-tumor-yes-validation-2" 
+  <img src="https://github.com/user-attachments/assets/7296dc59-6d01-4ac6-a115-ccb107a9c826" 
+       alt="img-brains" 
        width="150" 
        style="border-radius: 15px;"/>
 </p>
