@@ -51,7 +51,7 @@ Aquí tienes un video de demostración para ver el modelo en acción:
 
 [Ver video de demostración]()
 
-[Ver video de demostración del modelo](https://github.com/user-attachments/assets/26bcaf40-3fab-42d8-b652-725cd4e292b7)](https://github.com/Jesus-David-Silva-Rangel-19/Brain-Tumor-Simple-Detection-MRI/issues/3#issue-2619891733)
+[Ver video de demostración del modelo](https://github.com/Jesus-David-Silva-Rangel-19/Brain-Tumor-Simple-Detection-MRI/blob/465166d55464d6b28b0582546db9abd2c2b81feb/manual-validation/img-prueba.png)](https://github.com/Jesus-David-Silva-Rangel-19/Brain-Tumor-Simple-Detection-MRI/blob/465166d55464d6b28b0582546db9abd2c2b81feb/manual-validation/Video-Uso.mp4)
 
 
 ## 📁 Estructura del Proyecto
